@@ -1,7 +1,20 @@
-  body {
-    background: rgba(0, 23, 255, 0.5)
+.section-box{
+    width: 900px;
+    margin: auto;
+    border: 1px black solid;
+    min-width:900px;
+    max-width:900px;
+    min-height:250px;
 }
-.large{
-    font-family: 'Oswald', sans-serif;
-    text-align: center;
+.section-pic{
+    width: 250px;
+    height:250px;
+    overflow:hidden;
+    position: relative;
+    float:left;
+    padding-right:10px;
 }
+.section-text{
+   padding-left:10px;
+}
+
