@@ -21,3 +21,6 @@
 .heading{
     text-align: center;
 }
+.title, .name-date{
+    text-align: center;
+}
